@@ -27,6 +27,7 @@ jobs:
       run: |
         npm install hexo-cli -g
         npm install
+        npm install --save hexo-deployer-git
   
     - name: Setup Deploy Private Key
       env:
