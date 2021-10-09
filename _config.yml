@@ -112,10 +112,8 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repository:
-    github: git@github.com:godweiyang/godweiyang.github.io.git
-    coding: git@e.coding.net:godweiyang/godweiyang.git
-  branch: master
+  repo: git@github.com:Luoooio/Luoooio.GitHub.io.git
+  branch: main
 - type: baidu_url_submitter
 
 
